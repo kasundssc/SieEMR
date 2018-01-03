@@ -1,0 +1,8 @@
+C:\Users\Kasun\Desktop\EMR\EMR\DAL\bin\Debug\netcoreapp2.0\DAL.deps.json
+C:\Users\Kasun\Desktop\EMR\EMR\DAL\bin\Debug\netcoreapp2.0\DAL.dll
+C:\Users\Kasun\Desktop\EMR\EMR\DAL\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\Users\Kasun\Desktop\EMR\EMR\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kasun\Desktop\EMR\EMR\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Kasun\Desktop\EMR\EMR\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfo.cs
+C:\Users\Kasun\Desktop\EMR\EMR\DAL\obj\Debug\netcoreapp2.0\DAL.dll
+C:\Users\Kasun\Desktop\EMR\EMR\DAL\obj\Debug\netcoreapp2.0\DAL.pdb
